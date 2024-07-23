@@ -24,9 +24,9 @@ const Index = () => {
                                         <PhoneIcon className='w-6'></PhoneIcon>
                                         <span> +1 1234567890 </span>
                                     </a>
-                                    <a href="mailto:jinendrajain6810@gmail.com" className='flex flex-row gap-1 flex-nowrap justify-center'>
+                                    <a className='flex flex-row gap-1 flex-nowrap justify-center'>
                                         <EnvelopeIcon className='w-6' />
-                                        <span> jinendrajain6810@gmail.com </span>
+                                        <span> agdg1313@gmail.com </span>
                                     </a>
 
                                 </div>
@@ -42,11 +42,11 @@ const Index = () => {
                                 </p>
                                 <div className="flex justify-center gap-1 mt-4">
 
-                                    <SocialIcon className='hover:opacity-70' url="https://github.com/itsjinendrajain" network="twitter" />
-                                    <SocialIcon className='hover:opacity-70' url="https://github.com/itsjinendrajain" network="instagram" />
-                                    <SocialIcon className='hover:opacity-70' url="https://github.com/itsjinendrajain" network="facebook" />
-                                    <SocialIcon className='hover:opacity-70' url="https://github.com/itsjinendrajain" network="youtube" />
-                                    <SocialIcon className='hover:opacity-70' url="https://www.linkedin.com/in/itsjinendrajain/" network="linkedin" />
+                                    <SocialIcon className='hover:opacity-70' url="https://github.com/Akshu0713" network="twitter" />
+                                    <SocialIcon className='hover:opacity-70' url="https://github.com/Akshu0713" network="instagram" />
+                                    <SocialIcon className='hover:opacity-70' url="https://github.com/Akshu0713" network="facebook" />
+                                    <SocialIcon className='hover:opacity-70' url="https://github.com/Akshu0713" network="youtube" />
+                                    <SocialIcon className='hover:opacity-70' url="https://www.linkedin.com/in/akshat-g-98a174200/" network="linkedin" />
                                  
 
 
@@ -66,14 +66,14 @@ const Index = () => {
                         <p>
                             &copy;
                             <span id="displayYear"></span> All Rights Reserved By &nbsp;
-                            <a href="https://github.com/itsjinendrajain" className='!text-yellow-600 font-medium text-lg hover:!text-yellow-300'>Jinendra Jain</a>
+                            <a href="https://github.com/Akshu0713" className='!text-yellow-600 font-medium text-lg hover:!text-yellow-300'>Akshat Gupta</a>
                             <br /><br />
                             &copy; <span id="displayYear"></span> Distributed By &nbsp;
                             
                             <a 
-                            href="https://github.com/itsjinendrajain"
+                            href="https://github.com/Akshu0713"
                                 className='!text-yellow-600 font-medium text-lg hover:!text-yellow-300' 
-                            target="_blank">Jinendra Jain</a>
+                            target="_blank">Akshat Gupta</a>
                         </p>
 
                     </div>
